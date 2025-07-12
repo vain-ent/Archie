@@ -24,14 +24,14 @@ Item {
 
         StyledText {
             visible: root.showDate
-            font.pixelSize: Appearance.font.pixelSize.small
+            font.pixelSize: Appearance.font.pixelSize.large
             color: Appearance.colors.colOnLayer1
             text: "•"
         }
 
         StyledText {
             visible: root.showDate
-            font.pixelSize: Appearance.font.pixelSize.small
+            font.pixelSize: Appearance.font.pixelSize.large
             color: Appearance.colors.colOnLayer1
             text: DateTime.date
         }

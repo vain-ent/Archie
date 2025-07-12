@@ -200,16 +200,7 @@ Scope {
                                     Hyprland.dispatch('global quickshell:sidebarLeftToggle');
                                 }
 
-                                CustomIcon {
-                                    id: distroIcon
-                                    anchors.centerIn: parent
-                                    width: 19.5
-                                    height: 19.5
-                                    source: Config.options.bar.topLeftIcon == 'distro' ? SystemInfo.distroIcon : "spark-symbolic"
-                                    colorize: true
-                                    color: Appearance.colors.colOnLayer0
                                 }
-                            }
 
                             ActiveWindow {
                                 visible: barRoot.useShortenedForm === 0

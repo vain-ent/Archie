@@ -45,7 +45,7 @@ Item {
             Layout.alignment: Qt.AlignVCenter
             lineWidth: 2
             value: percentage
-            size: 26
+            size: 30
             secondaryColor: (isLow && !isCharging) ? batteryLowBackground : Appearance.colors.colSecondaryContainer
             primaryColor: (isLow && !isCharging) ? batteryLowOnBackground : Appearance.m3colors.m3onSecondaryContainer
             fill: (isLow && !isCharging)

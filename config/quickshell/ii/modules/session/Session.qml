@@ -96,6 +96,17 @@ Scope {
                         onFocusChanged: { if (focus) sessionRoot.subtitle = buttonText }
                         KeyNavigation.right: sessionSleep
                         KeyNavigation.down: sessionHibernate
+		}
+
+	 SessionActionButton {
+                        id: sessionShutdown
+                        buttonIcon: "power_settings_new"
+                        buttonText: qsTr("Shutdown")
+                        onClicked:  { Quickshell.execDetached(["bash", "-c", `systemctl poweroff || loginctl poweroff`]); sessionRoot.hide() }
+                        onFocusChanged: { if (focus) sessionRoot.subtitle = buttonText }
+                        KeyNavigation.left: sessionHibernate
+                        KeyNavigation.right: sessionReboot
+                        KeyNavigation.up: sessionSleep
                     }
                     SessionActionButton {
                         id: sessionSleep
@@ -135,16 +146,6 @@ Scope {
                         onFocusChanged: { if (focus) sessionRoot.subtitle = buttonText }
                         KeyNavigation.up: sessionLock
                         KeyNavigation.right: sessionShutdown
-                    }
-                    SessionActionButton {
-                        id: sessionShutdown
-                        buttonIcon: "power_settings_new"
-                        buttonText: qsTr("Shutdown")
-                        onClicked:  { Quickshell.execDetached(["bash", "-c", `systemctl poweroff || loginctl poweroff`]); sessionRoot.hide() }
-                        onFocusChanged: { if (focus) sessionRoot.subtitle = buttonText }
-                        KeyNavigation.left: sessionHibernate
-                        KeyNavigation.right: sessionReboot
-                        KeyNavigation.up: sessionSleep
                     }
                     SessionActionButton {
                         id: sessionReboot

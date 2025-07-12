@@ -177,27 +177,31 @@ Item {
                     property var mainAppIconSource: Quickshell.iconPath(AppSearch.guessIcon(biggestWindow?.class), "image-missing")
 
                     StyledText { // Workspace number text
-                        opacity: GlobalStates.workspaceShowNumbers
-                            || ((Config.options?.bar.workspaces.alwaysShowNumbers && (!Config.options?.bar.workspaces.showAppIcons || !workspaceButtonBackground.biggestWindow || GlobalStates.workspaceShowNumbers))
-                            || (GlobalStates.workspaceShowNumbers && !Config.options?.bar.workspaces.showAppIcons)
-                            )  ? 1 : 0
-                        z: 3
+    opacity: GlobalStates.workspaceShowNumbers
+        || ((Config.options?.bar.workspaces.alwaysShowNumbers && (!Config.options?.bar.workspaces.showAppIcons || !workspaceButtonBackground.biggestWindow || GlobalStates.workspaceShowNumbers))
+        || (GlobalStates.workspaceShowNumbers && !Config.options?.bar.workspaces.showAppIcons)
+        )  ? 1 : 0
+    z: 3
 
-                        anchors.centerIn: parent
-                        horizontalAlignment: Text.AlignHCenter
-                        verticalAlignment: Text.AlignVCenter
-                        font.pixelSize: Appearance.font.pixelSize.small - ((text.length - 1) * (text !== "10") * 2)
-                        text: `${button.workspaceValue}`
-                        elide: Text.ElideRight
-                        color: (monitor.activeWorkspace?.id == button.workspaceValue) ? 
-                            Appearance.m3colors.m3onPrimary : 
-                            (workspaceOccupied[index] ? Appearance.m3colors.m3onSecondaryContainer : 
-                                Appearance.colors.colOnLayer1Inactive)
+    anchors.centerIn: parent
+    horizontalAlignment: Text.AlignHCenter
+    verticalAlignment: Text.AlignVCenter
+    font.pixelSize: Appearance.font.pixelSize.large - ((text.length - 1) * (text !== "十") * 2)
+    text: ({
+        "1": "一", "2": "二", "3": "三", "4": "四", "5": "五",
+        "6": "六", "7": "七", "8": "八", "9": "九", "10": "十"
+    }[button.workspaceValue] || button.workspaceValue)
+    elide: Text.ElideRight
+    color: (monitor.activeWorkspace?.id == button.workspaceValue) ? 
+        Appearance.m3colors.m3onPrimary : 
+        (workspaceOccupied[index] ? Appearance.m3colors.m3onSecondaryContainer : 
+            Appearance.colors.colOnLayer1Inactive)
 
-                        Behavior on opacity {
-                            animation: Appearance.animation.elementMoveFast.numberAnimation.createObject(this)
-                        }
-                    }
+    Behavior on opacity {
+        animation: Appearance.animation.elementMoveFast.numberAnimation.createObject(this)
+    }
+}
+
                     Rectangle { // Dot instead of ws number
                         id: wsDot
                         opacity: (Config.options?.bar.workspaces.alwaysShowNumbers

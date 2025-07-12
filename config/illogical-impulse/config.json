@@ -4,14 +4,14 @@
     },
     "appearance": {
         "extraBackgroundTint": true,
-        "fakeScreenRounding": 2,
+        "fakeScreenRounding": 1,
         "palette": {
             "type": "auto"
         },
-        "transparency": false
+        "transparency": true
     },
     "apps": {
-        "bluetooth": "kcmshell6 kcm_bluetooth",
+        "bluetooth": "blueman-manager",
         "network": "plasmawindowed org.kde.plasma.networkmanagement",
         "networkEthernet": "kcmshell6 kcm_networkmanagement",
         "taskManager": "plasma-systemmonitor --page-name Processes",
@@ -46,10 +46,10 @@
         },
         "utilButtons": {
             "showColorPicker": false,
-            "showDarkModeToggle": true,
-            "showKeyboardToggle": true,
+            "showDarkModeToggle": false,
+            "showKeyboardToggle": false,
             "showMicToggle": false,
-            "showScreenSnip": true
+            "showScreenSnip": false
         },
         "verbose": true,
         "weather": {
@@ -60,9 +60,9 @@
             "useUSCS": false
         },
         "workspaces": {
-            "alwaysShowNumbers": false,
+            "alwaysShowNumbers": true,
             "monochromeIcons": true,
-            "showAppIcons": true,
+            "showAppIcons": false,
             "showNumberDelay": 300,
             "shown": 10
         }
@@ -108,10 +108,10 @@
     "overview": {
         "columns": 5,
         "rows": 2,
-        "scale": 0.18
+        "scale": 0.1
     },
     "policies": {
-        "ai": 1,
+        "ai": 0,
         "weeb": 0
     },
     "resources": {
@@ -151,7 +151,7 @@
         "format": "hh:mm"
     },
     "windows": {
-        "centerTitle": true,
-        "showTitlebar": true
+        "centerTitle": false,
+        "showTitlebar": false
     }
 }
