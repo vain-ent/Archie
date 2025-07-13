@@ -19,7 +19,7 @@
     },
     "audio": {
         "protection": {
-            "enable": true,
+            "enable": false,
             "maxAllowed": 90,
             "maxAllowedIncrease": 10
         }
@@ -32,14 +32,14 @@
     "bar": {
         "borderless": false,
         "bottom": false,
-        "cornerStyle": 1,
+        "cornerStyle": 0,
         "resources": {
             "alwaysShowCpu": false,
             "alwaysShowSwap": true
         },
         "screenList": [
         ],
-        "showBackground": true,
+        "showBackground": false,
         "topLeftIcon": "spark",
         "tray": {
             "monochromeIcons": true
@@ -99,7 +99,7 @@
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
     },
     "osd": {
-        "timeout": 1000
+        "timeout": 1500
     },
     "osk": {
         "layout": "qwerty_full",
@@ -108,7 +108,7 @@
     "overview": {
         "columns": 5,
         "rows": 2,
-        "scale": 0.1
+        "scale": 0.13
     },
     "policies": {
         "ai": 0,

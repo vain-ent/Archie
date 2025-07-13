@@ -1,0 +1,28 @@
+2025/07/12-21:49:20.890 16823 Reusing MANIFEST /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/12-21:49:20.891 16823 Recovering log #495
+2025/07/12-21:49:20.919 16823 Reusing old log /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000495.log 
+2025/07/12-21:49:23.017 16822 Compacting 1@1 + 10@2 files
+2025/07/12-21:49:23.086 16822 Generated table #502@1: 43100 keys, 2214955 bytes
+2025/07/12-21:49:23.128 16822 Generated table #503@1: 26936 keys, 2184785 bytes
+2025/07/12-21:49:23.163 16822 Generated table #504@1: 2920 keys, 2161645 bytes
+2025/07/12-21:49:23.196 16822 Generated table #505@1: 2513 keys, 2157392 bytes
+2025/07/12-21:49:23.239 16822 Generated table #506@1: 2563 keys, 2162607 bytes
+2025/07/12-21:49:23.264 16822 Generated table #507@1: 3196 keys, 2163071 bytes
+2025/07/12-21:49:23.306 16822 Generated table #508@1: 20956 keys, 2203478 bytes
+2025/07/12-21:49:23.371 16822 Generated table #509@1: 26021 keys, 2271243 bytes
+2025/07/12-21:49:23.449 16822 Generated table #510@1: 44985 keys, 2244895 bytes
+2025/07/12-21:49:23.506 16822 Generated table #511@1: 15654 keys, 2197776 bytes
+2025/07/12-21:49:23.513 16822 Generated table #512@1: 1305 keys, 133230 bytes
+2025/07/12-21:49:23.513 16822 Compacted 1@1 + 10@2 files => 22095077 bytes
+2025/07/12-21:49:23.520 16822 compacted to: files[ 0 0 13 0 0 0 0 ]
+2025/07/12-21:49:23.520 16822 Delete type=2 #484
+2025/07/12-21:49:23.521 16822 Delete type=2 #485
+2025/07/12-21:49:23.521 16822 Delete type=2 #486
+2025/07/12-21:49:23.521 16822 Delete type=2 #487
+2025/07/12-21:49:23.521 16822 Delete type=2 #488
+2025/07/12-21:49:23.521 16822 Delete type=2 #489
+2025/07/12-21:49:23.521 16822 Delete type=2 #490
+2025/07/12-21:49:23.521 16822 Delete type=2 #491
+2025/07/12-21:49:23.521 16822 Delete type=2 #492
+2025/07/12-21:49:23.521 16822 Delete type=2 #493
+2025/07/12-21:49:23.521 16822 Delete type=2 #497

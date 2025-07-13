@@ -20,7 +20,7 @@ Item {
             bottomMargin: 4
         }
         color: Config.options?.bar.borderless ? "transparent" : Appearance.colors.colLayer1
-        radius: Appearance.rounding.small
+        radius: Appearance.rounding.large
     }
 
     RowLayout {

@@ -1,0 +1,33 @@
+{
+   "action": {
+      "default_title": "__MSG_title__"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "css": [ "assets/style-injector.css" ],
+      "js": [ "control-panel.js", "dark-mode-content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_desc__",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "assets/static/128.png",
+      "32": "assets/static/32.png",
+      "64": "assets/static/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvilQhK86b9n338TP6z+NcA/nx++t+p6x6v+qIShzYLw0AF/pf8wZienHi3kdN1kuElm0TAV6Y13g+fieEN7xwSim1ToSUu6qaZ/fIEfX9WZTHqTE+H9c/YSe9AsAZiLZSjlIkzQdv0QARt5oOItjgUPE1rw5iV1VF58eRb73/yR65KqWGh+2IwWo5HPVtAh2Ar1QDXcj7124E2mi+ovEP6kO/X1cZbSmg//6ZZcGvNXy80uQZHLVP7akvoHnntfa274yyOlEWz6m93MhwsqXFLzmGLTnJqZgUXh+NmPXi6/3vmrOhXffgfRKJqYhiRrgmb5LsYWaNYg+R9vBeZGMxQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_name__",
+   "options_page": "./options.html",
+   "permissions": [ "storage", "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.7",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "static/*", "assets/*.svg", "assets/*.png", "assets/*.css", "assets/*.otf" ]
+   } ]
+}

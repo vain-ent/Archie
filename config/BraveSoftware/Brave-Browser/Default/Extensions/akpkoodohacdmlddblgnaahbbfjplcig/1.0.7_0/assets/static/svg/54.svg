@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 1024" style="enable-background:new 0 0 1024 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FED843;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M832.8,512c0,177.2-143.7,320.8-320.9,320.8c-177.1,0-320.8-143.6-320.8-320.8S334.9,191.3,512,191.3
+			S832.8,334.9,832.8,512z"/>
+		<circle class="st0" cx="512" cy="55.4" r="55.4"/>
+		
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -534.9423 645.735)" class="st0" cx="512" cy="968.6" rx="55.4" ry="55.4"/>
+		<circle class="st0" cx="968.6" cy="512" r="55.4"/>
+		<circle class="st0" cx="55.4" cy="512" r="55.4"/>
+		<circle class="st0" cx="834.8" cy="834.8" r="55.4"/>
+		<circle class="st0" cx="189.2" cy="189.2" r="55.4"/>
+		<circle class="st0" cx="189.2" cy="834.8" r="55.4"/>
+		<circle class="st0" cx="834.8" cy="189.2" r="55.4"/>
+	</g>
+</g>
+</svg>

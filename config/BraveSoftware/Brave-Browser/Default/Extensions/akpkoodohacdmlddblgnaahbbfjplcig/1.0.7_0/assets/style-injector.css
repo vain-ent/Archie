@@ -1,0 +1,2 @@
+.dark-mode-enabled,.dark-mode-enabled body,.dark-mode-enabled body :not(iframe):not(div[style^="position:absolute;top:0;left:-"]){background-color:#181a1b !important;border-color:#776e62 !important;color:#e8e6e3 !important}.dark-mode-enabled,.dark-mode-enabled body{opacity:1 !important;transition:none !important}.dark-mode-enabled{filter:sepia(var(--sepia)) brightness(var(--brightness)) grayscale(var(--grayscale)) contrast(var(--contrast))}
+
