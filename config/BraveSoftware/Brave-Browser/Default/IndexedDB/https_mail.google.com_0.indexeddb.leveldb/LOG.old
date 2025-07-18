@@ -1,2 +1,18 @@
-2025/07/12-22:19:06.906 1ecdd Creating DB /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
-2025/07/12-22:19:06.914 1ecdd Reusing MANIFEST /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/15-16:09:54.993 7c9 Reusing MANIFEST /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/15-16:09:54.994 7c9 Recovering log #3
+2025/07/15-16:09:54.998 7c9 Reusing old log /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2025/07/15-16:10:13.614 7c9 Level-0 table #5: started
+2025/07/15-16:10:13.639 7c9 Level-0 table #5: 3165068 bytes OK
+2025/07/15-16:10:13.646 7c9 Delete type=0 #3
+2025/07/15-16:31:50.002 7ca Level-0 table #7: started
+2025/07/15-16:31:50.029 7ca Level-0 table #7: 3209727 bytes OK
+2025/07/15-16:31:50.035 7ca Delete type=0 #4
+2025/07/15-16:31:53.317 7c9 Compacting 1@1 + 1@2 files
+2025/07/15-16:31:53.338 7c9 Generated table #8@1: 247 keys, 744192 bytes
+2025/07/15-16:31:53.338 7c9 Compacted 1@1 + 1@2 files => 744192 bytes
+2025/07/15-16:31:53.344 7c9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/15-16:32:00.794 7c9 Level-0 table #10: started
+2025/07/15-16:32:00.821 7c9 Level-0 table #10: 3277099 bytes OK
+2025/07/15-16:32:00.829 7c9 Delete type=2 #5
+2025/07/15-16:32:00.829 7c9 Delete type=0 #6
+2025/07/15-16:32:00.829 7c9 Delete type=2 #7

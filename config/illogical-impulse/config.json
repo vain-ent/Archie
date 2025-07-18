@@ -4,14 +4,14 @@
     },
     "appearance": {
         "extraBackgroundTint": true,
-        "fakeScreenRounding": 1,
+        "fakeScreenRounding": 2,
         "palette": {
             "type": "auto"
         },
         "transparency": true
     },
     "apps": {
-        "bluetooth": "blueman-manager",
+        "bluetooth": "kcmshell6 kcm_bluetooth",
         "network": "plasmawindowed org.kde.plasma.networkmanagement",
         "networkEthernet": "kcmshell6 kcm_networkmanagement",
         "taskManager": "plasma-systemmonitor --page-name Processes",

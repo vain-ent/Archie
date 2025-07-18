@@ -1,3 +1,7 @@
-2025/07/13-14:13:01.206 2f6b5 Reusing MANIFEST /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/07/13-14:13:01.206 2f6b5 Recovering log #3
-2025/07/13-14:13:01.207 2f6b5 Reusing old log /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/000003.log 
+2025/07/15-15:56:21.037 7c9 Reusing MANIFEST /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/15-15:56:21.037 7c9 Recovering log #3
+2025/07/15-15:56:21.040 7c9 Reusing old log /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/000003.log 
+2025/07/15-17:07:24.350 7c9 Level-0 table #5: started
+2025/07/15-17:07:24.357 7c9 Level-0 table #5: 675900 bytes OK
+2025/07/15-17:07:24.362 7c9 Delete type=0 #3
+2025/07/15-17:07:24.362 7c9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

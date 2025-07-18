@@ -1,13 +1,14 @@
-2025/07/13-12:50:42.618 1893e Reusing MANIFEST /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_nunflix.org_0.indexeddb.leveldb/MANIFEST-000001
-2025/07/13-12:50:42.619 1893e Recovering log #6
-2025/07/13-12:50:42.619 1893e Reusing old log /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_nunflix.org_0.indexeddb.leveldb/000006.log 
-2025/07/13-12:50:43.134 18acc Level-0 table #10: started
-2025/07/13-12:50:43.137 18acc Level-0 table #10: 7256 bytes OK
-2025/07/13-12:50:43.142 18acc Delete type=0 #6
-2025/07/13-12:50:43.143 1893d Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 1727 : 1
-2025/07/13-12:50:43.143 1893d Compacting 1@0 + 1@1 files
-2025/07/13-12:50:43.147 1893d Generated table #11@0: 920 keys, 13496 bytes
-2025/07/13-12:50:43.147 1893d Compacted 1@0 + 1@1 files => 13496 bytes
-2025/07/13-12:50:43.153 1893d compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/07/13-12:50:43.153 1893d Delete type=2 #10
-2025/07/13-12:50:43.153 1893d Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 1727 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/17-22:41:27.379 bcb9 Reusing MANIFEST /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_nunflix.org_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/17-22:41:27.379 bcb9 Recovering log #9
+2025/07/17-22:41:27.380 bcb9 Reusing old log /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_nunflix.org_0.indexeddb.leveldb/000009.log 
+2025/07/17-22:41:27.380 bcb9 Delete type=2 #7
+2025/07/17-22:41:27.393 bcbb Level-0 table #14: started
+2025/07/17-22:41:27.396 bcbb Level-0 table #14: 12204 bytes OK
+2025/07/17-22:41:27.401 bcbb Delete type=0 #9
+2025/07/17-22:41:27.401 bcbb Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\x05' @ 2396 : 1
+2025/07/17-22:41:27.402 bcbb Compacting 1@0 + 1@1 files
+2025/07/17-22:41:27.405 bcbb Generated table #15@0: 1280 keys, 18850 bytes
+2025/07/17-22:41:27.405 bcbb Compacted 1@0 + 1@1 files => 18850 bytes
+2025/07/17-22:41:27.411 bcbb compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/17-22:41:27.411 bcbb Delete type=2 #14
+2025/07/17-22:41:27.411 bcbb Manual compaction at level-0 from '\x00\x0a\x00\x00\x05' @ 2396 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)

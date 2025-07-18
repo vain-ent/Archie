@@ -1,0 +1,29 @@
+2025/07/13-15:05:53.514 f7ac Creating DB /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.speedtest.net_0.indexeddb.leveldb since it was missing.
+2025/07/13-15:05:53.526 f7ac Reusing MANIFEST /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.speedtest.net_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/13-15:05:53.563 f7ac Level-0 table #5: started
+2025/07/13-15:05:53.566 f7ac Level-0 table #5: 1797 bytes OK
+2025/07/13-15:05:53.576 f7ac Delete type=0 #3
+2025/07/13-15:05:53.576 f7ac Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/13-15:05:53.590 f7ae Level-0 table #7: started
+2025/07/13-15:05:53.595 f7ae Level-0 table #7: 4797 bytes OK
+2025/07/13-15:05:53.611 f7ae Delete type=0 #4
+2025/07/13-15:05:53.611 f7ac Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/13-15:05:53.611 f7ac Manual compaction at level-1 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\xc8\x18\x00u\x00s\x00e\x00r\x00_\x00U\x00n\x00i\x00v\x00S\x00p\x00e\x00e\x00d\x00T\x00e\x00s\x00t\x00R\x00e\x00s\x00u\x00l\x00t' @ 234 : 1
+2025/07/13-15:05:53.611 f7ac Compacting 1@1 + 1@2 files
+2025/07/13-15:05:53.615 f7ac Generated table #8@1: 198 keys, 3385 bytes
+2025/07/13-15:05:53.615 f7ac Compacted 1@1 + 1@2 files => 3385 bytes
+2025/07/13-15:05:53.623 f7ac compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/13-15:05:53.624 f7ac Delete type=2 #7
+2025/07/13-15:05:53.624 f7ac Manual compaction at level-1 from '\x00\x05\x00\x00\xc8\x18\x00u\x00s\x00e\x00r\x00_\x00U\x00n\x00i\x00v\x00S\x00p\x00e\x00e\x00d\x00T\x00e\x00s\x00t\x00R\x00e\x00s\x00u\x00l\x00t' @ 234 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/13-15:05:53.624 f7ac Level-0 table #10: started
+2025/07/13-15:05:53.628 f7ac Level-0 table #10: 3445 bytes OK
+2025/07/13-15:05:53.636 f7ac Delete type=2 #5
+2025/07/13-15:05:53.636 f7ac Delete type=0 #6
+2025/07/13-15:05:53.636 f7ac Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/13-15:05:53.636 f7ac Manual compaction at level-1 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\xc8\x18\x00u\x00s\x00e\x00r\x00_\x00U\x00n\x00i\x00v\x00S\x00p\x00e\x00e\x00d\x00T\x00e\x00s\x00t\x00R\x00e\x00s\x00u\x00l\x00t' @ 632 : 0
+2025/07/13-15:05:53.636 f7ac Compacting 1@1 + 1@2 files
+2025/07/13-15:05:53.640 f7ac Generated table #11@1: 38 keys, 1092 bytes
+2025/07/13-15:05:53.641 f7ac Compacted 1@1 + 1@2 files => 1092 bytes
+2025/07/13-15:05:53.649 f7ac compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/13-15:05:53.649 f7ac Delete type=2 #10
+2025/07/13-15:05:53.649 f7ac Manual compaction at level-1 from '\x00\x05\x00\x00\xc8\x18\x00u\x00s\x00e\x00r\x00_\x00U\x00n\x00i\x00v\x00S\x00p\x00e\x00e\x00d\x00T\x00e\x00s\x00t\x00R\x00e\x00s\x00u\x00l\x00t' @ 632 : 0 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

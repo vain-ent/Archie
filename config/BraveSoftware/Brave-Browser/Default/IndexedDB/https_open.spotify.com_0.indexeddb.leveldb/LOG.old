@@ -1,31 +1,57 @@
-2025/07/12-23:24:06.220 495e Reusing MANIFEST /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/07/12-23:24:06.220 495e Recovering log #3
-2025/07/12-23:24:06.221 495e Reusing old log /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/000003.log 
-2025/07/12-23:24:12.306 495f Level-0 table #5: started
-2025/07/12-23:24:12.318 495f Level-0 table #5: 3595987 bytes OK
-2025/07/12-23:24:12.324 495f Delete type=0 #3
-2025/07/12-23:24:28.099 495e Level-0 table #7: started
-2025/07/12-23:24:28.146 495e Level-0 table #7: 4237316 bytes OK
-2025/07/12-23:24:28.153 495e Delete type=0 #4
-2025/07/12-23:24:28.184 4960 Compacting 1@1 + 1@2 files
-2025/07/12-23:24:28.191 4960 Generated table #8@1: 417 keys, 222713 bytes
-2025/07/12-23:24:28.191 4960 Compacted 1@1 + 1@2 files => 222713 bytes
-2025/07/12-23:24:28.197 4960 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/07/12-23:24:28.197 4960 Delete type=2 #5
-2025/07/12-23:24:28.197 4960 Delete type=2 #7
-2025/07/12-23:24:31.854 495f Level-0 table #10: started
-2025/07/12-23:24:31.866 495f Level-0 table #10: 4278025 bytes OK
-2025/07/12-23:24:31.873 495f Delete type=0 #6
-2025/07/12-23:24:31.901 495f Compacting 1@1 + 1@2 files
-2025/07/12-23:24:31.907 495f Generated table #11@1: 441 keys, 167772 bytes
-2025/07/12-23:24:31.908 495f Compacted 1@1 + 1@2 files => 167772 bytes
-2025/07/12-23:24:31.916 495f compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/07/12-23:24:31.916 495f Delete type=2 #8
-2025/07/12-23:24:31.916 495f Delete type=2 #10
-2025/07/12-23:50:25.546 495f Level-0 table #13: started
-2025/07/12-23:50:25.557 495f Level-0 table #13: 2522350 bytes OK
-2025/07/12-23:50:25.563 495f Delete type=0 #9
-2025/07/12-23:50:25.710 495f Compacting 1@1 + 1@2 files
-2025/07/12-23:50:25.720 495f Generated table #14@1: 1365 keys, 124119 bytes
-2025/07/12-23:50:25.720 495f Compacted 1@1 + 1@2 files => 124119 bytes
-2025/07/12-23:50:25.728 495f compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/17-23:01:04.736 bcb9 Reusing MANIFEST /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/17-23:01:04.736 bcb9 Recovering log #12
+2025/07/17-23:01:04.740 bcb9 Reusing old log /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/000012.log 
+2025/07/17-23:01:12.293 bcba Level-0 table #17: started
+2025/07/17-23:01:12.306 bcba Level-0 table #17: 4010580 bytes OK
+2025/07/17-23:01:12.315 bcba Delete type=0 #12
+2025/07/17-23:01:12.603 bcba Compacting 1@1 + 1@2 files
+2025/07/17-23:01:12.613 bcba Generated table #18@1: 1444 keys, 248476 bytes
+2025/07/17-23:01:12.613 bcba Compacted 1@1 + 1@2 files => 248476 bytes
+2025/07/17-23:01:12.619 bcba compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/17-23:01:12.620 bcba Delete type=2 #14
+2025/07/17-23:01:12.620 bcba Delete type=2 #17
+2025/07/17-23:01:12.748 bcba Level-0 table #20: started
+2025/07/17-23:01:12.760 bcba Level-0 table #20: 4225770 bytes OK
+2025/07/17-23:01:12.766 bcba Delete type=0 #16
+2025/07/17-23:01:12.772 bcb9 Compacting 1@1 + 1@2 files
+2025/07/17-23:01:12.781 bcb9 Generated table #21@1: 1474 keys, 250981 bytes
+2025/07/17-23:01:12.781 bcb9 Compacted 1@1 + 1@2 files => 250981 bytes
+2025/07/17-23:01:12.787 bcb9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/17-23:01:13.346 bcb9 Level-0 table #23: started
+2025/07/17-23:01:13.358 bcb9 Level-0 table #23: 4237583 bytes OK
+2025/07/17-23:01:13.363 bcb9 Delete type=2 #18
+2025/07/17-23:01:13.364 bcb9 Delete type=0 #19
+2025/07/17-23:01:13.364 bcb9 Delete type=2 #20
+2025/07/17-23:01:13.366 bcbb Compacting 1@1 + 1@2 files
+2025/07/17-23:01:13.374 bcbb Generated table #24@1: 1567 keys, 263224 bytes
+2025/07/17-23:01:13.374 bcbb Compacted 1@1 + 1@2 files => 263224 bytes
+2025/07/17-23:01:13.380 bcbb compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/17-23:01:13.380 bcbb Delete type=2 #21
+2025/07/17-23:01:13.380 bcbb Delete type=2 #23
+2025/07/17-23:01:27.413 bcba Level-0 table #26: started
+2025/07/17-23:01:27.425 bcba Level-0 table #26: 4219714 bytes OK
+2025/07/17-23:01:27.431 bcba Delete type=0 #22
+2025/07/17-23:01:27.940 bcba Compacting 1@1 + 1@2 files
+2025/07/17-23:01:27.948 bcba Generated table #27@1: 1662 keys, 271184 bytes
+2025/07/17-23:01:27.949 bcba Compacted 1@1 + 1@2 files => 271184 bytes
+2025/07/17-23:01:27.954 bcba compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/17-23:01:27.954 bcba Delete type=2 #24
+2025/07/17-23:01:27.954 bcba Delete type=2 #26
+2025/07/17-23:01:30.286 bcc8 Level-0 table #29: started
+2025/07/17-23:01:30.295 bcc8 Level-0 table #29: 4227725 bytes OK
+2025/07/17-23:01:30.301 bcc8 Delete type=0 #25
+2025/07/17-23:01:30.358 bcba Compacting 1@1 + 1@2 files
+2025/07/17-23:01:30.365 bcba Generated table #30@1: 1697 keys, 332488 bytes
+2025/07/17-23:01:30.365 bcba Compacted 1@1 + 1@2 files => 332488 bytes
+2025/07/17-23:01:30.370 bcba compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/17-23:01:30.370 bcba Delete type=2 #27
+2025/07/17-23:01:30.370 bcba Delete type=2 #29
+2025/07/17-23:04:51.423 bcba Level-0 table #32: started
+2025/07/17-23:04:51.435 bcba Level-0 table #32: 4232677 bytes OK
+2025/07/17-23:04:51.441 bcba Delete type=0 #28
+2025/07/17-23:04:51.501 bcba Compacting 1@1 + 1@2 files
+2025/07/17-23:04:51.510 bcba Generated table #33@1: 1732 keys, 288183 bytes
+2025/07/17-23:04:51.510 bcba Compacted 1@1 + 1@2 files => 288183 bytes
+2025/07/17-23:04:51.516 bcba compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/17-23:04:51.517 bcba Delete type=2 #30
+2025/07/17-23:04:51.517 bcba Delete type=2 #32

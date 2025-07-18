@@ -1,0 +1,80 @@
+{
+   "checksum": "64dfeb48ded85bb3b8749d4da3e0f787",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13396888333580009",
+            "date_last_used": "0",
+            "guid": "9676bf67-7c57-4c8c-8c56-5b9a75ec9008",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Typing Lessons",
+            "type": "url",
+            "url": "https://www.typing.com/en-gb/student/lessons"
+         }, {
+            "date_added": "13397049600991249",
+            "date_last_used": "13397050894192257",
+            "guid": "ae441411-c7e5-422f-8d34-79b8650b3334",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Inbox ",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+         }, {
+            "date_added": "13397053063450807",
+            "date_last_used": "13397084496685994",
+            "guid": "a2c35958-b397-4485-8486-0b27fe887725",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "WhatsApp",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13397080286358082",
+            "date_last_used": "0",
+            "guid": "9ff68761-81e9-4d81-b036-c2b74d8098ff",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Notion",
+            "type": "url",
+            "url": "https://www.notion.so/alxne-hxrizxn/536a0588d0c543c0915b99efb2bfcee3"
+         } ],
+         "date_added": "13396888280927933",
+         "date_last_used": "0",
+         "date_modified": "13397080286358082",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13396888280927933",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13396888280927933",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,3 +1,39 @@
-2025/07/13-12:43:35.380 14efe Reusing MANIFEST /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_in.pinterest.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/07/13-12:43:35.380 14efe Recovering log #4
-2025/07/13-12:43:35.404 14efe Reusing old log /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_in.pinterest.com_0.indexeddb.leveldb/000004.log 
+2025/07/14-22:26:03.530 4fb Reusing MANIFEST /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_in.pinterest.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/14-22:26:03.530 4fb Recovering log #4
+2025/07/14-22:26:03.547 4fb Reusing old log /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_in.pinterest.com_0.indexeddb.leveldb/000004.log 
+2025/07/14-22:28:18.750 4fd Level-0 table #8: started
+2025/07/14-22:28:18.779 4fd Level-0 table #8: 1765577 bytes OK
+2025/07/14-22:28:18.785 4fd Delete type=0 #4
+2025/07/14-22:28:22.653 4fd Compacting 1@1 + 1@2 files
+2025/07/14-22:28:22.703 4fd Generated table #9@1: 34 keys, 1529 bytes
+2025/07/14-22:28:22.703 4fd Compacted 1@1 + 1@2 files => 1529 bytes
+2025/07/14-22:28:22.708 4fd compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/14-22:28:22.708 4fd Delete type=2 #5
+2025/07/14-22:28:22.708 4fd Delete type=2 #8
+2025/07/14-22:34:35.051 4fd Level-0 table #11: started
+2025/07/14-22:34:35.074 4fd Level-0 table #11: 1749764 bytes OK
+2025/07/14-22:34:35.081 4fd Delete type=0 #7
+2025/07/14-22:34:37.232 4fc Compacting 1@1 + 1@2 files
+2025/07/14-22:34:37.251 4fc Generated table #12@1: 67 keys, 14201 bytes
+2025/07/14-22:34:37.251 4fc Compacted 1@1 + 1@2 files => 14201 bytes
+2025/07/14-22:34:37.257 4fc compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/14-22:34:37.257 4fc Delete type=2 #9
+2025/07/14-22:34:37.257 4fc Delete type=2 #11
+2025/07/14-22:48:20.733 4fc Level-0 table #14: started
+2025/07/14-22:48:20.752 4fc Level-0 table #14: 1728943 bytes OK
+2025/07/14-22:48:20.758 4fc Delete type=0 #10
+2025/07/14-22:48:24.969 50a Compacting 1@1 + 1@2 files
+2025/07/14-22:48:24.978 50a Generated table #15@1: 40 keys, 3903 bytes
+2025/07/14-22:48:24.978 50a Compacted 1@1 + 1@2 files => 3903 bytes
+2025/07/14-22:48:24.983 50a compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/14-22:48:24.983 50a Delete type=2 #12
+2025/07/14-22:48:24.984 50a Delete type=2 #14
+2025/07/14-22:55:57.392 4fd Level-0 table #17: started
+2025/07/14-22:55:57.413 4fd Level-0 table #17: 1796585 bytes OK
+2025/07/14-22:55:57.419 4fd Delete type=0 #13
+2025/07/14-22:56:02.736 4fc Compacting 1@1 + 1@2 files
+2025/07/14-22:56:02.744 4fc Generated table #18@1: 46 keys, 3000 bytes
+2025/07/14-22:56:02.744 4fc Compacted 1@1 + 1@2 files => 3000 bytes
+2025/07/14-22:56:02.750 4fc compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/14-22:56:02.750 4fc Delete type=2 #15
+2025/07/14-22:56:02.750 4fc Delete type=2 #17

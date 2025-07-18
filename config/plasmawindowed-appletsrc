@@ -12,6 +12,27 @@ lastScreen=-1
 location=0
 wallpaperplugin=org.kde.image
 
+[Containments][14]
+activityId=
+formfactor=0
+lastScreen=-1
+location=0
+wallpaperplugin=org.kde.image
+
+[Containments][16]
+activityId=
+formfactor=0
+lastScreen=-1
+location=0
+wallpaperplugin=org.kde.image
+
+[Containments][18]
+activityId=
+formfactor=0
+lastScreen=-1
+location=0
+wallpaperplugin=org.kde.image
+
 [Containments][2]
 activityId=
 formfactor=0

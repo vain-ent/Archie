@@ -1,6 +1,12 @@
-2025/07/12-23:23:39.173 495f Reusing MANIFEST /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/07/12-23:23:39.173 495f Recovering log #7
-2025/07/12-23:23:39.177 495f Reusing old log /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000007.log 
-2025/07/12-23:23:44.168 495f Level-0 table #12: started
-2025/07/12-23:23:44.186 495f Level-0 table #12: 1900963 bytes OK
-2025/07/12-23:23:44.193 495f Delete type=0 #7
+2025/07/17-22:34:08.814 bcb9 Reusing MANIFEST /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/17-22:34:08.814 bcb9 Recovering log #45
+2025/07/17-22:34:08.815 bcb9 Reusing old log /home/alxne/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000045.log 
+2025/07/17-22:34:09.475 bcb9 Compacting 1@1 + 1@2 files
+2025/07/17-22:34:09.484 bcb9 Generated table #48@1: 415 keys, 60537 bytes
+2025/07/17-22:34:09.484 bcb9 Compacted 1@1 + 1@2 files => 60537 bytes
+2025/07/17-22:34:09.491 bcb9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/17-22:34:09.491 bcb9 Delete type=2 #44
+2025/07/17-22:34:09.492 bcb9 Delete type=2 #46
+2025/07/17-22:45:01.906 bcb9 Level-0 table #50: started
+2025/07/17-22:45:01.917 bcb9 Level-0 table #50: 1351517 bytes OK
+2025/07/17-22:45:01.923 bcb9 Delete type=0 #45
